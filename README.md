@@ -7,7 +7,7 @@
 
 -------------------------------------------------------------------------
 
-Check out more details on [my portfolio](https://satokiohashi.com/)
+Check out more details on [my portfolio](https://yuki-1184.github.io/my_webpage/)
 
 <!--
 **yuki-1184/yuki-1184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
